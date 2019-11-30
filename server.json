@@ -1,0 +1,96 @@
+{
+  "mesas": [
+    {
+      "id": "1",
+      "nome": "Mesa 1"
+    },
+    {
+      "id": "2",
+      "nome": "Mesa 2"
+    },
+    {
+      "id": "3",
+      "nome": "Mesa 3"
+    },
+    {
+      "id": "4",
+      "nome": "Mesa 4"
+    }
+  ],
+  "atendente": [
+    {
+      "id": "1",
+      "nome": "João",
+      "img": "https://cdn2.iconfinder.com/data/icons/people-flat-design/64/Man-Person-People-Avatar-User-Happy-512.png"
+    },
+    {
+      "id": "2",
+      "nome": "Bernadete",
+      "img": "https://cdn5.vectorstock.com/i/1000x1000/72/59/female-avatar-profile-icon-round-african-american-vector-18307259.jpg"
+    },
+    {
+      "id": "3",
+      "nome": "Claudio",
+      "img": "https://cdn2.iconfinder.com/data/icons/people-flat-design/64/Man-Person-People-Avatar-User-Happy-512.png"
+    },
+    {
+      "id": "4",
+      "nome": "Maria",
+      "img": "https://cdn5.vectorstock.com/i/1000x1000/72/59/female-avatar-profile-icon-round-african-american-vector-18307259.jpg"
+    }
+  ],
+  "Pedidos": [
+    {
+      "id": "1",
+      "nome": "Número 1"
+    },
+    {
+      "id": "2",
+      "nome": "Número 2"
+    },
+    {
+      "id": "3",
+      "nome": "Número 3"
+    },
+    {
+      "id": "4",
+      "nome": "Número 4"
+    }
+  ],
+  "Pratos": [
+    {
+      "id": "1",
+      "nome": "File com batata"
+    },
+    {
+      "id": "2",
+      "nome": "Arroz e feijão"
+    },
+    {
+      "id": "3",
+      "nome": "Pulenta frita"
+    },
+    {
+      "id": "4",
+      "nome": "Frango com espinafre"
+    },
+    {
+      "id": "5",
+      "nome": "Macarrão ao molho"
+    }
+  ],
+  "Bebidas": [
+    {
+      "id": "1",
+      "nome": "Coca Cola"
+    },
+    {
+      "id": "2",
+      "nome": "Cerveja"
+    },
+    {
+      "id": "3",
+      "nome": "Suco de uva"
+    }
+  ]
+}
